@@ -1,0 +1,166 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_bfe4c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_bfe4c.dir/build.make CMakeFiles/cmTC_bfe4c.dir/build
+make[1]: Entering directory '/home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bfe4c.dir/CheckSymbolExists.c.o
+/usr/bin/x86_64-linux-gnu-gcc-7    -o CMakeFiles/cmTC_bfe4c.dir/CheckSymbolExists.c.o   -c /home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_bfe4c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bfe4c.dir/link.txt --verbose=1
+/usr/bin/x86_64-linux-gnu-gcc-7      -rdynamic CMakeFiles/cmTC_bfe4c.dir/CheckSymbolExists.c.o  -o cmTC_bfe4c 
+CMakeFiles/cmTC_bfe4c.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_bfe4c.dir/build.make:97: recipe for target 'cmTC_bfe4c' failed
+make[1]: *** [cmTC_bfe4c] Error 1
+make[1]: Leaving directory '/home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_bfe4c/fast' failed
+make: *** [cmTC_bfe4c/fast] Error 2
+
+File /home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cf376/fast"
+/usr/bin/make -f CMakeFiles/cmTC_cf376.dir/build.make CMakeFiles/cmTC_cf376.dir/build
+make[1]: Entering directory '/home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cf376.dir/CheckFunctionExists.c.o
+/usr/bin/x86_64-linux-gnu-gcc-7   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_cf376.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_cf376
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cf376.dir/link.txt --verbose=1
+/usr/bin/x86_64-linux-gnu-gcc-7  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_cf376.dir/CheckFunctionExists.c.o  -o cmTC_cf376 -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_cf376.dir/build.make:97: recipe for target 'cmTC_cf376' failed
+make[1]: *** [cmTC_cf376] Error 1
+make[1]: Leaving directory '/home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_cf376/fast' failed
+make: *** [cmTC_cf376/fast] Error 2
+
+
+Determining if the Q_WS_WIN exist failed with the following output:
+Change Dir: /home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4cbfa/fast"
+/usr/bin/make -f CMakeFiles/cmTC_4cbfa.dir/build.make CMakeFiles/cmTC_4cbfa.dir/build
+make[1]: Entering directory '/home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_4cbfa.dir/CheckSymbolExists.cxx.o
+/usr/bin/x86_64-linux-gnu-g++-7   -I/usr/include/qt4   -o CMakeFiles/cmTC_4cbfa.dir/CheckSymbolExists.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_WIN’ was not declared in this scope
+   return ((int*)(&Q_WS_WIN))[argc];
+                   ^~~~~~~~
+/home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: note: suggested alternative: ‘Q_WS_X11’
+   return ((int*)(&Q_WS_WIN))[argc];
+                   ^~~~~~~~
+                   Q_WS_X11
+CMakeFiles/cmTC_4cbfa.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_4cbfa.dir/CheckSymbolExists.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_4cbfa.dir/CheckSymbolExists.cxx.o] Error 1
+make[1]: Leaving directory '/home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_4cbfa/fast' failed
+make: *** [cmTC_4cbfa/fast] Error 2
+
+File /home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_WIN
+  return ((int*)(&Q_WS_WIN))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the Q_WS_QWS exist failed with the following output:
+Change Dir: /home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b2413/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b2413.dir/build.make CMakeFiles/cmTC_b2413.dir/build
+make[1]: Entering directory '/home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_b2413.dir/CheckSymbolExists.cxx.o
+/usr/bin/x86_64-linux-gnu-g++-7   -I/usr/include/qt4   -o CMakeFiles/cmTC_b2413.dir/CheckSymbolExists.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_QWS’ was not declared in this scope
+   return ((int*)(&Q_WS_QWS))[argc];
+                   ^~~~~~~~
+/home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: note: suggested alternative: ‘Q_WS_X11’
+   return ((int*)(&Q_WS_QWS))[argc];
+                   ^~~~~~~~
+                   Q_WS_X11
+CMakeFiles/cmTC_b2413.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_b2413.dir/CheckSymbolExists.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_b2413.dir/CheckSymbolExists.cxx.o] Error 1
+make[1]: Leaving directory '/home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_b2413/fast' failed
+make: *** [cmTC_b2413/fast] Error 2
+
+File /home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_QWS
+  return ((int*)(&Q_WS_QWS))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the Q_WS_MAC exist failed with the following output:
+Change Dir: /home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_87ead/fast"
+/usr/bin/make -f CMakeFiles/cmTC_87ead.dir/build.make CMakeFiles/cmTC_87ead.dir/build
+make[1]: Entering directory '/home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_87ead.dir/CheckSymbolExists.cxx.o
+/usr/bin/x86_64-linux-gnu-g++-7   -I/usr/include/qt4   -o CMakeFiles/cmTC_87ead.dir/CheckSymbolExists.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_MAC’ was not declared in this scope
+   return ((int*)(&Q_WS_MAC))[argc];
+                   ^~~~~~~~
+/home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: note: suggested alternative: ‘Q_WS_X11’
+   return ((int*)(&Q_WS_MAC))[argc];
+                   ^~~~~~~~
+                   Q_WS_X11
+CMakeFiles/cmTC_87ead.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_87ead.dir/CheckSymbolExists.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_87ead.dir/CheckSymbolExists.cxx.o] Error 1
+make[1]: Leaving directory '/home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_87ead/fast' failed
+make: *** [cmTC_87ead/fast] Error 2
+
+File /home/juyeb/catkin_ws/src/my_slam/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_MAC
+  return ((int*)(&Q_WS_MAC))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+

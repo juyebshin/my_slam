@@ -1,0 +1,292 @@
+[
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/stereo_odom.dir/src/stereo_odom.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/stereo_odom.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/stereo_odom.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/stereo_odom.dir/src/glwidget.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/glwidget.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/glwidget.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/stereo_odom.dir/src/window.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/window.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/window.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/stereo_odom.dir/src/qtlogo.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/qtlogo.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/qtlogo.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/stereo_odom.dir/src/viewer.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/viewer.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/viewer.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/stereo_odom.dir/src/system.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/system.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/system.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/stereo_odom.dir/src/imageform.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/imageform.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/imageform.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/stereo_odom.dir/include/moc_glwidget.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/include/moc_glwidget.cxx",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/build/include/moc_glwidget.cxx"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/stereo_odom.dir/include/moc_window.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/include/moc_window.cxx",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/build/include/moc_window.cxx"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/stereo_odom.dir/include/moc_qtlogo.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/include/moc_qtlogo.cxx",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/build/include/moc_qtlogo.cxx"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/stereo_odom.dir/include/moc_viewer.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/include/moc_viewer.cxx",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/build/include/moc_viewer.cxx"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/stereo_odom.dir/include/moc_system.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/include/moc_system.cxx",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/build/include/moc_system.cxx"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/stereo_odom.dir/include/moc_imageform.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/include/moc_imageform.cxx",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/build/include/moc_imageform.cxx"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/mono_odom.dir/src/mono_odom.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/mono_odom.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/mono_odom.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/mono_odom.dir/src/glwidget.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/glwidget.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/glwidget.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/mono_odom.dir/src/window.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/window.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/window.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/mono_odom.dir/src/qtlogo.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/qtlogo.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/qtlogo.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/mono_odom.dir/src/viewer.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/viewer.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/viewer.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/mono_odom.dir/src/system.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/system.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/system.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/mono_odom.dir/src/imageform.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/imageform.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/imageform.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/mono_odom.dir/include/moc_glwidget.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/include/moc_glwidget.cxx",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/build/include/moc_glwidget.cxx"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/mono_odom.dir/include/moc_window.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/include/moc_window.cxx",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/build/include/moc_window.cxx"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/mono_odom.dir/include/moc_qtlogo.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/include/moc_qtlogo.cxx",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/build/include/moc_qtlogo.cxx"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/mono_odom.dir/include/moc_viewer.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/include/moc_viewer.cxx",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/build/include/moc_viewer.cxx"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/mono_odom.dir/include/moc_system.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/include/moc_system.cxx",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/build/include/moc_system.cxx"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/mono_odom.dir/include/moc_imageform.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/include/moc_imageform.cxx",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/build/include/moc_imageform.cxx"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -Dmy_slam_EXPORTS -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g -fPIC   -o CMakeFiles/my_slam.dir/src/glwidget.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/glwidget.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/glwidget.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -Dmy_slam_EXPORTS -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g -fPIC   -o CMakeFiles/my_slam.dir/src/window.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/window.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/window.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -Dmy_slam_EXPORTS -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g -fPIC   -o CMakeFiles/my_slam.dir/src/qtlogo.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/qtlogo.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/qtlogo.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -Dmy_slam_EXPORTS -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g -fPIC   -o CMakeFiles/my_slam.dir/src/viewer.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/viewer.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/viewer.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -Dmy_slam_EXPORTS -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g -fPIC   -o CMakeFiles/my_slam.dir/src/system.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/system.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/system.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -Dmy_slam_EXPORTS -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g -fPIC   -o CMakeFiles/my_slam.dir/src/imageform.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/imageform.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/imageform.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -Dmy_slam_EXPORTS -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g -fPIC   -o CMakeFiles/my_slam.dir/src/frame.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/frame.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/frame.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -Dmy_slam_EXPORTS -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g -fPIC   -o CMakeFiles/my_slam.dir/src/ORBextractor.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/ORBextractor.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/ORBextractor.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -Dmy_slam_EXPORTS -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g -fPIC   -o CMakeFiles/my_slam.dir/src/ORBmatcher.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/ORBmatcher.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/ORBmatcher.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -Dmy_slam_EXPORTS -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g -fPIC   -o CMakeFiles/my_slam.dir/src/tracking.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/tracking.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/tracking.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -Dmy_slam_EXPORTS -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g -fPIC   -o CMakeFiles/my_slam.dir/src/framedrawer.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/framedrawer.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/framedrawer.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -Dmy_slam_EXPORTS -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g -fPIC   -o CMakeFiles/my_slam.dir/src/mapdrawer.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/mapdrawer.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/mapdrawer.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/opengl_test.dir/src/opengl_test.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/opengl_test.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/opengl_test.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/opengl_test.dir/src/glwidget.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/glwidget.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/glwidget.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/opengl_test.dir/src/window.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/window.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/window.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/opengl_test.dir/src/qtlogo.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/qtlogo.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/qtlogo.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/opengl_test.dir/src/viewer.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/viewer.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/viewer.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/opengl_test.dir/src/system.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/system.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/system.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/opengl_test.dir/src/imageform.cpp.o -c /home/juyeb/catkin_ws/src/my_slam/src/imageform.cpp",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/src/imageform.cpp"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/opengl_test.dir/include/moc_glwidget.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/include/moc_glwidget.cxx",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/build/include/moc_glwidget.cxx"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/opengl_test.dir/include/moc_window.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/include/moc_window.cxx",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/build/include/moc_window.cxx"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/opengl_test.dir/include/moc_qtlogo.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/include/moc_qtlogo.cxx",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/build/include/moc_qtlogo.cxx"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/opengl_test.dir/include/moc_viewer.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/include/moc_viewer.cxx",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/build/include/moc_viewer.cxx"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/opengl_test.dir/include/moc_system.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/include/moc_system.cxx",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/build/include/moc_system.cxx"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"my_slam\\\" -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -isystem /usr/include/eigen3 -isystem /home/juyeb/Pangolin/include -isystem /home/juyeb/Pangolin/build/src/include -I/home/juyeb/catkin_ws/src/my_slam -I/home/juyeb/catkin_ws/src/my_slam/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include -isystem /home/juyeb/installation/OpenCV-3.4.4/include/opencv -isystem /usr/include/qt4 -isystem /usr/include/qt4/QtCore -isystem /usr/share/qt4/mkspecs/default -isystem /usr/include/qt4/QtGui -isystem /usr/include/qt4/QtOpenGL  -g   -o CMakeFiles/opengl_test.dir/include/moc_imageform.cxx.o -c /home/juyeb/catkin_ws/src/my_slam/build/include/moc_imageform.cxx",
+  "file": "/home/juyeb/catkin_ws/src/my_slam/build/include/moc_imageform.cxx"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build/gtest/googlemock",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/__/googletest/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build/gtest/googlemock",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build/gtest/googlemock",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build/gtest/googlemock",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/__/googletest/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build/gtest/googlemock",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build/gtest/googlemock/gtest",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/juyeb/catkin_ws/src/my_slam/build/gtest/googlemock/gtest",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC    -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+}
+]

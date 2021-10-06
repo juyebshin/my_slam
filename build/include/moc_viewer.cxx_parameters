@@ -1,0 +1,6 @@
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="my_slam"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/juyeb/catkin_ws/src/my_slam/build/include/moc_viewer.cxx
+/home/juyeb/catkin_ws/src/my_slam/include/viewer.hpp

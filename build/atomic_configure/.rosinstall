@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/juyeb/catkin_ws/src/my_slam/build/devel/setup.sh
